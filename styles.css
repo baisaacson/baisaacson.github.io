@@ -4,4 +4,6 @@ body {
 
 * { 
     margin: auto;
+    vertical-align: middle;
+    text-align: center;
 }
